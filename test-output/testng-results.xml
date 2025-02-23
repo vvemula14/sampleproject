@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-23T17:37:26 IST" name="Suite" finished-at="2025-02-23T17:37:42 IST" duration-ms="16191">
+    <groups>
+    </groups>
+    <test started-at="2025-02-23T17:37:26 IST" name="sample" finished-at="2025-02-23T17:37:42 IST" duration-ms="16191">
+      <class name="sp.sampleproject.Testngclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:sp.sampleproject.Testngclass@689604d9]" started-at="2025-02-23T17:37:26 IST" name="setup" finished-at="2025-02-23T17:37:39 IST" duration-ms="12086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyGoogleTitle()[pri:0, instance:sp.sampleproject.Testngclass@689604d9]" started-at="2025-02-23T17:37:39 IST" name="verifyGoogleTitle" finished-at="2025-02-23T17:37:41 IST" duration-ms="2324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGoogleTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:sp.sampleproject.Testngclass@689604d9]" started-at="2025-02-23T17:37:41 IST" name="teardown" finished-at="2025-02-23T17:37:42 IST" duration-ms="1190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- sp.sampleproject.Testngclass -->
+    </test> <!-- sample -->
+  </suite> <!-- Suite -->
+</testng-results>
